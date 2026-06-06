@@ -86,6 +86,7 @@ a {
   justify-content: space-between;
   text-align: center;
   gap: 12px;
+  color: #384959;
 }
 .item a {
   text-decoration: underline;
